@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **Algorithms, System Design**
 
+- ☁️ I’m a certified AWS Cloud Practitioner
+
 - 💬 Ask me about **Android, Java**
 
 - 📫 How to reach me **aritrachatterjee83@gmail.com**
