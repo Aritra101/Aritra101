@@ -11,7 +11,7 @@
 
 - ☁️ I’m a certified AWS Cloud Practitioner
 
-- 💬 Ask me about **Android, Java**
+- 💬 Ask me about **Android, Java, Devops**
 
 - 📫 How to reach me **aritrachatterjee83@gmail.com**
 
